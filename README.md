@@ -34,11 +34,6 @@ Throughout the program, I’ve worked on projects that allowed me to apply and s
 I hold a **Bachelor’s degree in Law**, a **Postgraduate degree in Tax Law**, and I’m also pursuing a **second degree in Accounting**. I have previous experience working with tax and legal data in the public sector, supporting tax enforcement processes, contract analysis, and collection support. Skilled in interpreting tax-related data for negotiation and public service.
 
 I bring strong **analytical thinking**, **clear communication**, **discipline**, and a **results-oriented mindset**. I’m also a **black be**
-## 🎓 Certificados
-
-![Gênio de Dashboards](https://github.com/gschmidel19/gschmidel19/blob/main/Image%20(2).png)
-![Analista de Dados Aspirante](https://github.com/gschmidel19/gschmidel19/blob/main/Image%20(1).png)
-![Campeão de SQL](https://github.com/gschmidel19/gschmidel19/blob/main/Image.png)
 
 ## 📊 Ferramentas e Tecnologias / Tools and Technologies
 
@@ -72,6 +67,14 @@ I bring strong **analytical thinking**, **clear communication**, **discipline**,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 🎓 Certificados
+
+![Gênio de Dashboards](https://github.com/gschmidel19/gschmidel19/blob/main/Image%20(2).png)
+
+![Analista de Dados Aspirante](https://github.com/gschmidel19/gschmidel19/blob/main/Image%20(1).png)
+
+![Campeão de SQL](https://github.com/gschmidel19/gschmidel19/blob/main/Image.png)
 
 ## 📬 Contato / Contact
 
