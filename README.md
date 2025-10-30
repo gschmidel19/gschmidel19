@@ -1,6 +1,6 @@
 # Olá!
 
-Meu nome é Gabriel Schmidel, tenho formação multidisciplinar e em transição para a área de Dados e Tecnologia. Atualmente cursando bootcamp intensivo de Análise de Dados pela TripleTen, com foco em Python, SQL, visualização de dados (Plotly/Power BI/Streamlit) e estratégias de negócio.
+Meu nome é Gabriel Schmidel, tenho formação multidisciplinar e em transição para a área de Dados e Tecnologia. Tenho formação no intensivo de Análise de Dados pela TripleTen, com foco em Python, SQL, visualização de dados (Plotly/Power BI/Streamlit) e estratégias de negócio.
 
 Ao longo da minha formação, desenvolvi projetos que me permitiram aplicar e aprimorar habilidades como:
 
